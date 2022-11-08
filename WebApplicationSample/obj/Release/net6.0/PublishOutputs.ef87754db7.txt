@@ -1,0 +1,11 @@
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\WebApplicationSample.exe
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\WebApplicationSample.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\WebApplicationSample.deps.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\WebApplicationSample.runtimeconfig.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\WebApplicationSample.pdb
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\WebApplicationSample\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

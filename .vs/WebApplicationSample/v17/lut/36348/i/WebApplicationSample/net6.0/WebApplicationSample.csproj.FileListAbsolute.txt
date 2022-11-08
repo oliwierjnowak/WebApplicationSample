@@ -1,0 +1,16 @@
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\b\appsettings.Development.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\b\appsettings.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\b\WebApplicationSample.exe
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\b\WebApplicationSample.deps.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\b\WebApplicationSample.runtimeconfig.json
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\b\WebApplicationSample.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.csproj.AssemblyReference.cache
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.AssemblyInfoInputs.cache
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.AssemblyInfo.cs
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\scopedcss\bundle\WebApplicationSample.styles.css
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.csproj.CopyComplete
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\refint\WebApplicationSample.dll
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\WebApplicationSample.genruntimeconfig.cache
+C:\Users\onowa\Desktop\asptryouts\WebApplicationSample\.vs\WebApplicationSample\v17\lut\0\i\WebApplicationSample\net6.0\ref\WebApplicationSample.dll
